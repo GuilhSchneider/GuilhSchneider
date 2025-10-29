@@ -15,17 +15,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/guilhemeschneider?igsh=MXRzMHRka3c5aWp0NA" target="_blank">
+  <a href="https://www.instagram.com/guilhemeschneider?igsh=MXRzMHRka3c5aWp0NA" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:guilhermeschneider077@hotmail.com" target="_blank">
+  <a href="mailto:guilhermeschneider077@hotmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hotmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-schneider-5a5a42340/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-schneider-5a5a42340/" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://wa.me/5511956535435" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  <a href="https://wa.me/5511956535435" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
 
