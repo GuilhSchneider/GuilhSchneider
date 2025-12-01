@@ -40,9 +40,9 @@
   <a href="https://www.instagram.com/guilhemeschneider?igsh=MXRzMHRka3c5aWp0NA" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:guilhermeschneider077@hotmail.com" style="text-decoration:none;">
+  <!-- <a href="mailto:guilhermeschneider077@hotmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hotmail logo" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/guilherme-schneider-5a5a42340/" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
