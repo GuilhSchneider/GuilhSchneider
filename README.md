@@ -43,9 +43,9 @@
   <a href="mailto:guilhermeschneider077@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-schneider-5a5a42340/" style="text-decoration:none;">
+  <!-- <a href="https://www.linkedin.com/in/guilherme-schneider-5a5a42340/" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
+  </a> -->
   <a href="https://wa.me/5511956535435" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
